@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><restaurant>
+ <plat codi="A1">
+   <descripcio>Carpaccio</descripcio>
+   <categoria>Antipasti</categoria>
+   <preu>11</preu>
+ </plat>
+
+ <plat codi="P2">
+   <descripcio>Margherita</descripcio>
+   <categoria>Pizzes</categoria>
+   <preu>6</preu>
+ </plat>
+
+ <plat codi="P3">
+   <descripcio>Calzone</descripcio>
+   <categoria>Pizzes</categoria>
+   <preu>7</preu>
+ </plat>
+
+ <plat codi="P4">
+   <descripcio>Spaghetti alle canocchie </descripcio>
+   <categoria>Pastes</categoria>
+   <preu>11</preu>
+</plat>
+
+ <plat codi="P5">
+   <descripcio>Rigatoni al salmone</descripcio>
+   <categoria>Pastes</categoria>
+   <preu>11</preu>
+ </plat>
+
+ <plat codi="C6">
+   <descripcio>Rollo di pollo</descripcio>
+   <categoria>Carns</categoria>
+   <preu>13</preu>
+ </plat>
+
+ <plat codi="C7">
+   <descripcio>Scalopine marsala</descripcio>
+   <categoria>Carns</categoria>
+   <preu>12</preu>
+ </plat>
+
+    <plat codi="P7">
+    <descripcio>Spaghetti al pesto</descripcio>
+    <categoria>Pasta</categoria>
+    <preu>8</preu>
+    </plat>
+
+</restaurant>
